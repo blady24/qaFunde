@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\qa_funde_02\\qa_funde\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44E53709-89B8-4E1A-948A-05252F88BE17}|..\\qa_funde_tests\\qa_funde_tests.csproj|c:\\users\\daniel\\desktop\\qa_funde_02\\qa_funde_tests\\cls_ctl_test_persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E53709-89B8-4E1A-948A-05252F88BE17}|..\\qa_funde_tests\\qa_funde_tests.csproj|c:\\users\\daniel\\desktop\\qa_funde_02\\qa_funde_tests\\cls_test_dbctl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AEAA0F-1B15-41FD-BD39-EA2E6335A31C}|qa_funde.csproj|C:\\Users\\Daniel\\Desktop\\qa_funde_02\\qa_funde\\models\\cls_dbctl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AEAA0F-1B15-41FD-BD39-EA2E6335A31C}|qa_funde.csproj|solutionrelative:models\\cls_dbctl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AEAA0F-1B15-41FD-BD39-EA2E6335A31C}|qa_funde.csproj|C:\\Users\\Daniel\\Desktop\\qa_funde_02\\qa_funde\\controllers\\cls_ctl_persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AEAA0F-1B15-41FD-BD39-EA2E6335A31C}|qa_funde.csproj|solutionrelative:controllers\\cls_ctl_persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cls_test_dbctl.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\qa_funde_02\\qa_funde_tests\\cls_test_dbctl.cs",
+              "RelativeDocumentMoniker": "..\\qa_funde_tests\\cls_test_dbctl.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\qa_funde_02\\qa_funde_tests\\cls_test_dbctl.cs",
+              "RelativeToolTip": "..\\qa_funde_tests\\cls_test_dbctl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:43:04.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cls_ctl_test_persona.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\qa_funde_02\\qa_funde_tests\\cls_ctl_test_persona.cs",
+              "RelativeDocumentMoniker": "..\\qa_funde_tests\\cls_ctl_test_persona.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\qa_funde_02\\qa_funde_tests\\cls_ctl_test_persona.cs",
+              "RelativeToolTip": "..\\qa_funde_tests\\cls_ctl_test_persona.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:46:29.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cls_dbctl.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\qa_funde_02\\qa_funde\\Models\\cls_dbctl.cs",
+              "RelativeDocumentMoniker": "Models\\cls_dbctl.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\qa_funde_02\\qa_funde\\Models\\cls_dbctl.cs",
+              "RelativeToolTip": "Models\\cls_dbctl.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:41:54.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cls_ctl_persona.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\qa_funde_02\\qa_funde\\Controllers\\cls_ctl_persona.cs",
+              "RelativeDocumentMoniker": "Controllers\\cls_ctl_persona.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\qa_funde_02\\qa_funde\\Controllers\\cls_ctl_persona.cs",
+              "RelativeToolTip": "Controllers\\cls_ctl_persona.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:46:32.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

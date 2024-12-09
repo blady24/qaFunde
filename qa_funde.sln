@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qa_funde", "qa_funde.csproj", "{51AEAA0F-1B15-41FD-BD39-EA2E6335A31C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qa_funde_tests", "..\qa_funde_tests\qa_funde_tests.csproj", "{44E53709-89B8-4E1A-948A-05252F88BE17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51AEAA0F-1B15-41FD-BD39-EA2E6335A31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51AEAA0F-1B15-41FD-BD39-EA2E6335A31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51AEAA0F-1B15-41FD-BD39-EA2E6335A31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51AEAA0F-1B15-41FD-BD39-EA2E6335A31C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44E53709-89B8-4E1A-948A-05252F88BE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E53709-89B8-4E1A-948A-05252F88BE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E53709-89B8-4E1A-948A-05252F88BE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E53709-89B8-4E1A-948A-05252F88BE17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DAC980A-24D7-41C3-A644-137607A159D8}
+	EndGlobalSection
+EndGlobal
